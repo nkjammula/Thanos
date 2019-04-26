@@ -1,0 +1,2 @@
+# Thanos
+Thanos Chrome Extension
